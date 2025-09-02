@@ -51,17 +51,13 @@ https://api.open-meteo.com/v1/forecast
    git clone https://github.com/PranjaliPatil22/weather-now.git
 
 
-
-2.Navigate to the project folder:
-cd weather-now
-
-3.Install dependencies:
+2.Install dependencies:
 npm install
 
-4.Start the development server:
+3.Start the development server:
 npm start
 
-5.Open the app in your browser at:
+4.Open the app in your browser at:
 http://localhost:3000
 
 
