@@ -74,3 +74,10 @@ src/
 The app is deployed on CodeSandbox.
 Live Demo :  https://codesandbox.io/p/devbox/hungry-wilbur-glwgd7
 
+
+## 🔹 References & Resources
+- ChatGPT Conversation (AI Assistance): https://chatgpt.com/share/68b5a88e-2bfc-800f-a19f-c419ba8b8fca
+- GitHub Repository: https://github.com/PranjaliPatil22/weather-now.git
+- Live Demo: [CodeSandbox]  https://codesandbox.io/p/devbox/hungry-wilbur-glwgd7
+
+
