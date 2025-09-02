@@ -58,7 +58,7 @@ npm install
 npm start
 
 4.Open the app in your browser at:
-http://localhost:3000
+http://localhost:3000/
 
 
 ### Project Structure
@@ -72,4 +72,5 @@ src/
 
 ### Deployment
 The app is deployed on CodeSandbox.
-Live Demo : https://codesandbox.io/p/devbox/hungry-wilbur-glwgd7
+Live Demo :  https://codesandbox.io/p/devbox/hungry-wilbur-glwgd7
+
